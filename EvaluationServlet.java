@@ -2,9 +2,6 @@ import java.io.IOException;
 import java.util.*;
 import javax.servlet.http.*;
 
-/**
- * Created by Family on 04.05.2016.
- */
 public class EvaluationServlet extends HttpServlet {
 
     static final String STANDARD_RESPONSE = "<!DOCTYPE html><html>" +
